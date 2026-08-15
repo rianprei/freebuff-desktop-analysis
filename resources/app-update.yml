@@ -1,0 +1,3 @@
+provider: generic
+url: https://freebuff.com/api/desktop/updates/linux-x64/
+updaterCacheDirName: '@codebufffreebuff-desktop-updater'
